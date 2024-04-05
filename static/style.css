@@ -1,0 +1,33 @@
+
+body{
+
+    text-align: center;
+    background-image: url("naturalimg.jpg");
+    background-size: cover;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+input[type=file] {
+    display:inline-block;
+    }
+
+img {
+    width:70%;
+    }
+
+hr{
+    border: 5px solid black;
+    }
+
+select {
+    height: 50px;
+    width: 70px;
+    border-radius: 10px;
+    font-weight: bold !important;
+    color: #000 !important;
+    background:  lightcyan !important;
+    text-transform: uppercase;
+}
+
